@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    max-width: 400px;
+    text-align: left;
+}
+
+.contacts {
+    width: 400px;
+    text-align: left;
+}
+
+.userlists {
+    list-style: none;
+}

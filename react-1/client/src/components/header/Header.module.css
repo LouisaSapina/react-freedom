@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 400px;
+    display: flex;
+    align-items: self-start;
+}
+
+.navigation {
+    width: 400px;
+    text-align: left;
+    margin-left: 30px;
+}
+
+
+.userlists {
+    list-style: none;
+}

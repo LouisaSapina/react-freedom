@@ -1,0 +1,16 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   */
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.posts {
+    text-align: left;
+    width: 200px;
+}
